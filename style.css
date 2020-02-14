@@ -21,7 +21,8 @@ p {font-size: .90em;}
 ul {font-weight: bold;}
 nav {
     font-weight: bold;
-    font-size: .75 em;   
+    font-size: .75 em; 
+    margin-top: 10px;
 }
 footer { 
     font-size: .75em;
